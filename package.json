@@ -10,4 +10,7 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://Snakesoap.github.io/Scroll-in-js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }

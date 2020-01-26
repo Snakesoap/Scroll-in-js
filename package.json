@@ -1,0 +1,13 @@
+{
+  "name": "Scroll-in-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d Scroll-in-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Snakesoap.github.io/Scroll-in-js",
+}
